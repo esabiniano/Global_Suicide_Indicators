@@ -1,0 +1,528 @@
+Country,Country_Code,Year,MH_Expense_Share,Hosptial_MH_Expense_Share,MH_Plan,MH_Policy,MH_Legislation_Stand_Alone,MH_Plan_Policy_Stand_Alone
+Afghanistan,AFG,2011,,,Yes,Yes,,
+Afghanistan,AFG,2014,,,,,Yes,Yes
+Afghanistan,AFG,2016,,,,,Yes,Yes
+Albania,ALB,2011,,,Yes,Yes,,
+Albania,ALB,2014,,,,,Yes,Yes
+Albania,ALB,2016,,,,,Yes,Yes
+Algeria,DZA,2011,7.37,,Yes,Yes,,
+Algeria,DZA,2014,,,,,Yes,Yes
+Algeria,DZA,2016,,,,,Yes,No
+Andorra,AND,2011,,,No,No,,
+Angola,AGO,2011,,,Yes,No,,
+Angola,AGO,2016,,,,,No,No
+Antigua and Barbuda,ATG,2011,,,No,No,,
+Antigua and Barbuda,ATG,2016,,8,,,Yes,Yes
+Argentina,ARG,2011,,,Yes,Yes,,
+Argentina,ARG,2014,,,,,Yes,Yes
+Argentina,ARG,2016,,,,,Yes,Yes
+Armenia,ARM,2011,3.38,,No,No,,
+Armenia,ARM,2014,,,,,Yes,Yes
+Armenia,ARM,2016,,19.5,,,Yes,Yes
+Australia,AUS,2011,7.64,,Yes,Yes,,
+Australia,AUS,2014,,,,,Yes,Yes
+Australia,AUS,2015,,7.8,,,Yes,Yes
+Austria,AUT,2011,,,Yes,No,,
+Austria,AUT,2014,,,,,No,Yes
+Austria,AUT,2015,,,,,No,No
+Azerbaijan,AZE,2011,2.5,,Yes,Yes,,
+Azerbaijan,AZE,2014,,,,,Yes,Yes
+Azerbaijan,AZE,2016,,3.5,,,Yes,Yes
+Bahamas,BHS,2015,,,,,Yes,Yes
+Bahrain,BHR,2011,,,Yes,Yes,,
+Bahrain,BHR,2014,,,,,No,No
+Bahrain,BHR,2017,,3.2,,,No,Yes
+Bangladesh,BGD,2011,0.44,,Yes,Yes,,
+Bangladesh,BGD,2014,,,,,Yes,Yes
+Bangladesh,BGD,2016,,0.5,,,No,No
+Barbados,BRB,2011,,,No,Yes,,
+Barbados,BRB,2014,,,,,Yes,Yes
+Barbados,BRB,2015,,9.2,,,Yes,Yes
+Belarus,BLR,2011,,,Yes,Yes,,
+Belarus,BLR,2014,,,,,Yes,No
+Belarus,BLR,2016,,2.1,,,Yes,Yes
+Belgium,BEL,2011,,,Yes,Yes,,
+Belgium,BEL,2013,,,,,Yes,Yes
+Belgium,BEL,2014,,,,,Yes,Yes
+Belize,BLZ,2011,,,Yes,Yes,,
+Belize,BLZ,2014,,,,,No,Yes
+Belize,BLZ,2016,,,,,No,Yes
+Benin,BEN,2011,,,No,No,,
+Benin,BEN,2014,,,,,No,Yes
+Bhutan,BTN,2011,,,Yes,Yes,,
+Bhutan,BTN,2014,,,,,No,No
+Bhutan,BTN,2016,,0.3,,,No,Yes
+Bolivia (Plurinational State of),BOL,2011,,,Yes,No,,
+Bolivia (Plurinational State of),BOL,2014,,,,,No,No
+Bolivia (Plurinational State of),BOL,2016,,,,,No,Yes
+Bosnia and Herzegovina,BIH,2011,,,Yes,Yes,,
+Bosnia and Herzegovina,BIH,2014,,,,,Yes,Yes
+Bosnia and Herzegovina,BIH,2015,,,,,Yes,Yes
+Botswana,BWA,2011,,,Yes,Yes,,
+Botswana,BWA,2014,,,,,Yes,Yes
+Botswana,BWA,2017,,,,,Yes,Yes
+Brazil,BRA,2011,2.38,,Yes,Yes,,
+Brazil,BRA,2014,,,,,Yes,Yes
+Brazil,BRA,2016,,1,,,Yes,Yes
+Brunei Darussalam,BRN,2011,,,No,No,,
+Brunei Darussalam,BRN,2014,,,,,Yes,Yes
+Brunei Darussalam,BRN,2016,,,,,Yes,No
+Bulgaria,BGR,2011,1.4,,Yes,Yes,,
+Bulgaria,BGR,2014,,,,,No,Yes
+Bulgaria,BGR,2016,,2.7,,,No,No
+Burkina Faso,BFA,2011,,,No,No,,
+Burkina Faso,BFA,2014,,,,,No,Yes
+Burkina Faso,BFA,2016,,,,,No,Yes
+Burundi,BDI,2011,0.34,,Yes,No,,
+Burundi,BDI,2014,,,,,No,Yes
+Burundi,BDI,2017,,0.2,,,No,Yes
+Cabo Verde,CPV,2011,,,Yes,No,,
+Cabo Verde,CPV,2017,,,,,Yes,Yes
+Cambodia,KHM,2011,,,Yes,Yes,,
+Cambodia,KHM,2014,,,,,No,Yes
+Cambodia,KHM,2016,,0,,,No,Yes
+Cameroon,CMR,2011,0.26,,No,No,,
+Cameroon,CMR,2017,,,,,No,Yes
+Canada,CAN,2011,7.2,,Yes,No,,
+Canada,CAN,2014,,,,,,Yes
+Canada,CAN,2017,,,,,Yes,Yes
+Central African Republic,CAF,2011,,,No,No,,
+Central African Republic,CAF,2014,,,,,No,Yes
+Central African Republic,CAF,2017,,,,,No,Yes
+Chad,TCD,2011,,,Yes,No,,
+Chad,TCD,2016,,,,,No,Yes
+Chile,CHL,2011,2.78,,Yes,No,,
+Chile,CHL,2014,,,,,No,Yes
+Chile,CHL,2016,,2.1,,,No,Yes
+China,CHN,2011,,,Yes,Yes,,
+China,CHN,2014,,,,,Yes,Yes
+China,CHN,2015,,,,,Yes,Yes
+Colombia,COL,2014,,,,,Yes,Yes
+Colombia,COL,2016,,,,,Yes,Yes
+Comoros,COM,2011,,,Yes,No,,
+Comoros,COM,2017,,,,,Yes,No
+Congo,COG,2011,,,No,No,,
+Congo,COG,2014,,,,,,No
+Congo,COG,2016,,,,,No,Yes
+Cook Islands,COK,2011,,,No,No,,
+Cook Islands,COK,2014,,,,,Yes,Yes
+Cook Islands,COK,2016,,1,,,Yes,Yes
+Costa Rica,CRI,2011,2.91,,Yes,Yes,,
+Costa Rica,CRI,2014,,,,,No,Yes
+Costa Rica,CRI,2016,,2,,,No,Yes
+Croatia,HRV,2011,,,Yes,Yes,,
+Croatia,HRV,2014,,,,,Yes,Yes
+Croatia,HRV,2016,,4.3,,,Yes,Yes
+Cuba,CUB,2011,,,Yes,Yes,,
+Cuba,CUB,2014,,,,,No,No
+Cuba,CUB,2016,,,,,No,No
+Cyprus,CYP,2011,4.82,,Yes,Yes,,
+Cyprus,CYP,2014,,,,,Yes,Yes
+Cyprus,CYP,2015,,,,,Yes,Yes
+Czechia,CZE,2011,2.91,,Yes,No,,
+Czechia,CZE,2014,,,,,No,Yes
+Czechia,CZE,2015,,4,,,No,Yes
+Côte d’Ivoire,CIV,2011,,,Yes,Yes,,
+Côte d’Ivoire,CIV,2014,,,,,No,Yes
+Côte d’Ivoire,CIV,2016,,,,,No,Yes
+Democratic Republic of the Congo,COD,2011,,,Yes,Yes,,
+Democratic Republic of the Congo,COD,2014,,,,,,Yes
+Denmark,DNK,2011,,,Yes,Yes,,
+Denmark,DNK,2014,,,,,Yes,Yes
+Denmark,DNK,2016,,,,,Yes,Yes
+Djibouti,DJI,2014,,,,,No,No
+Dominica,DMA,2011,3.22,,No,No,,
+Dominica,DMA,2014,,,,,Yes,No
+Dominican Republic,DOM,2011,0.61,,Yes,No,,
+Dominican Republic,DOM,2014,,,,,Yes,Yes
+Dominican Republic,DOM,2016,,0.7,,,Yes,Yes
+Ecuador,ECU,2011,1.2,,Yes,No,,
+Ecuador,ECU,2014,,,,,No,Yes
+Ecuador,ECU,2016,,1.5,,,No,Yes
+Egypt,EGY,2011,2.29,,Yes,Yes,,
+Egypt,EGY,2014,,,,,Yes,No
+Egypt,EGY,2016,,0.5,,,Yes,Yes
+El Salvador,SLV,2011,,,No,Yes,,
+El Salvador,SLV,2014,,,,,No,Yes
+El Salvador,SLV,2016,,,,,No,Yes
+Equatorial Guinea,GNQ,2017,,,,,Yes,Yes
+Eritrea,ERI,2011,1.91,,No,No,,
+Eritrea,ERI,2014,,,,,No,Yes
+Eritrea,ERI,2016,,,,,No,Yes
+Estonia,EST,2011,5.78,,No,Yes,,
+Estonia,EST,2014,,,,,Yes,No
+Estonia,EST,2016,,2.9,,,Yes,Yes
+Eswatini,SWZ,2011,,,No,No,,
+Eswatini,SWZ,2014,,,,,Yes,No
+Eswatini,SWZ,2017,,,,,Yes,No
+Ethiopia,ETH,2011,,,No,No,,
+Ethiopia,ETH,2014,,,,,No,Yes
+Ethiopia,ETH,2017,,,,,No,No
+Fiji,FJI,2011,1.9,,No,No,,
+Fiji,FJI,2014,,,,,Yes,Yes
+Fiji,FJI,2016,,4,,,Yes,Yes
+Finland,FIN,2011,3.86,,Yes,Yes,,
+Finland,FIN,2014,,,,,Yes,Yes
+Finland,FIN,2017,,5.6,,,Yes,No
+France,FRA,2011,12.91,,Yes,Yes,,
+France,FRA,2014,,,,,No,Yes
+France,FRA,2017,,15,,,No,Yes
+Gabon,GAB,2011,0.62,,No,No,,
+Gabon,GAB,2016,,,,,Yes,Yes
+Gambia,GMB,2011,,,Yes,Yes,,
+Gambia,GMB,2014,,,,,No,Yes
+Gambia,GMB,2016,,,,,Yes,Yes
+Georgia,GEO,2011,2.83,,No,No,,
+Georgia,GEO,2014,,,,,Yes,Yes
+Georgia,GEO,2016,,1.9,,,Yes,Yes
+Germany,DEU,2011,11,,Yes,Yes,,
+Germany,DEU,2014,,,,,No,No
+Germany,DEU,2015,,11.3,,,Yes,Yes
+Ghana,GHA,2011,2,,Yes,Yes,,
+Ghana,GHA,2014,,,,,Yes,Yes
+Ghana,GHA,2016,,1.1,,,Yes,Yes
+Greece,GRC,2011,4.43,,Yes,Yes,,
+Greece,GRC,2014,,,,,Yes,Yes
+Greece,GRC,2016,,,,,Yes,Yes
+Grenada,GRD,2011,,,No,No,,
+Grenada,GRD,2014,,,,,Yes,Yes
+Grenada,GRD,2016,,,,,Yes,No
+Guatemala,GTM,2011,1.46,,Yes,Yes,,
+Guatemala,GTM,2014,,,,,No,Yes
+Guatemala,GTM,2016,,,,,No,
+Guinea,GIN,2011,,,Yes,Yes,,
+Guinea,GIN,2014,,,,,No,Yes
+Guinea,GIN,2016,,,,,No,Yes
+Guinea-Bissau,GNB,2011,,,No,No,,
+Guinea-Bissau,GNB,2016,,,,,No,No
+Guyana,GUY,2011,1.35,,Yes,Yes,,
+Guyana,GUY,2014,,,,,Yes,Yes
+Guyana,GUY,2016,,0.2,,,Yes,Yes
+Haiti,HTI,2011,0.61,,No,No,,
+Haiti,HTI,2014,,,,,No,No
+Haiti,HTI,2016,,1.6,,,No,Yes
+Honduras,HND,2011,1.61,,No,Yes,,
+Honduras,HND,2014,,1.6,,,No,Yes
+Hungary,HUN,2011,5.1,,Yes,No,,
+Hungary,HUN,2014,,,,,No,No
+Hungary,HUN,2016,,,,,No,No
+Iceland,ISL,2011,8.69,,Yes,No,,
+Iceland,ISL,2014,,,,,No,No
+Iceland,ISL,2016,,5.7,,,No,Yes
+India,IND,2011,,,Yes,No,,
+India,IND,2014,,,,,Yes,Yes
+India,IND,2016,,1.3,,,Yes,Yes
+Indonesia,IDN,2011,,,Yes,Yes,,
+Indonesia,IDN,2014,,,,,Yes,Yes
+Indonesia,IDN,2016,,6,,,Yes,Yes
+Iran (Islamic Republic of),IRN,2011,3.6,,Yes,Yes,,
+Iran (Islamic Republic of),IRN,2014,,,,,Yes,Yes
+Iran (Islamic Republic of),IRN,2017,,,,,Yes,Yes
+Iraq,IRQ,2011,,,Yes,No,,
+Iraq,IRQ,2014,,,,,Yes,Yes
+Iraq,IRQ,2017,,,,,Yes,Yes
+Ireland,IRL,2011,,,Yes,Yes,,
+Ireland,IRL,2016,,6,,,Yes,Yes
+Israel,ISR,2011,,,Yes,Yes,,
+Israel,ISR,2014,,,,,Yes,Yes
+Israel,ISR,2016,,3.4,,,Yes,Yes
+Italy,ITA,2011,5,,Yes,Yes,,
+Italy,ITA,2014,,,,,Yes,Yes
+Italy,ITA,2015,,3.5,,,Yes,Yes
+Jamaica,JAM,2011,6.04,,Yes,Yes,,
+Jamaica,JAM,2014,,,,,Yes,Yes
+Jamaica,JAM,2015,,5,,,Yes,Yes
+Japan,JPN,2011,4.94,,Yes,Yes,,
+Japan,JPN,2014,,,,,Yes,Yes
+Japan,JPN,2016,,,,,Yes,Yes
+Jordan,JOR,2011,,,No,No,,
+Jordan,JOR,2014,,,,,No,Yes
+Jordan,JOR,2016,,,,,No,Yes
+Kazakhstan,KAZ,2011,,,No,No,,
+Kenya,KEN,2011,,,Yes,No,,
+Kenya,KEN,2014,,,,,Yes,No
+Kenya,KEN,2016,,0,,,Yes,Yes
+Kiribati,KIR,2011,,,No,No,,
+Kiribati,KIR,2014,,,,,,Yes
+Kiribati,KIR,2015,,2,,,Yes,Yes
+Kuwait,KWT,2011,,,Yes,Yes,,
+Kuwait,KWT,2014,,,,,No,No
+Kyrgyzstan,KGZ,2011,4,,Yes,Yes,,
+Kyrgyzstan,KGZ,2014,,,,,Yes,Yes
+Kyrgyzstan,KGZ,2016,,7.7,,,Yes,Yes
+Lao People's Democratic Republic,LAO,2011,,,No,Yes,,
+Lao People's Democratic Republic,LAO,2014,,,,,No,Yes
+Latvia,LVA,2011,5.9,,No,Yes,,
+Latvia,LVA,2014,,,,,No,Yes
+Latvia,LVA,2015,,5.3,,,No,No
+Lebanon,LBN,2011,4.8,,No,No,,
+Lebanon,LBN,2014,,,,,Yes,No
+Lebanon,LBN,2015,,5,,,Yes,Yes
+Lesotho,LSO,2011,1.8,,No,No,,
+Lesotho,LSO,2014,,,,,Yes,No
+Liberia,LBR,2011,,,Yes,Yes,,
+Liberia,LBR,2014,,,,,No,Yes
+Liberia,LBR,2016,,2.4,,,Yes,Yes
+Libya,LBY,2014,,,,,Yes,No
+Libya,LBY,2016,,,,,No,No
+Lithuania,LTU,2011,,,Yes,Yes,,
+Lithuania,LTU,2014,,,,,Yes,Yes
+Lithuania,LTU,2016,,,,,Yes,Yes
+Luxembourg,LUX,2011,,,Yes,Yes,,
+Luxembourg,LUX,2014,,,,,Yes,Yes
+Luxembourg,LUX,2015,,,,,Yes,No
+Madagascar,MDG,2011,,,Yes,Yes,,
+Madagascar,MDG,2014,,,,,Yes,Yes
+Madagascar,MDG,2016,,,,,Yes,Yes
+Malawi,MWI,2011,1,,No,No,,
+Malawi,MWI,2014,,,,,Yes,Yes
+Malaysia,MYS,2011,0.39,,Yes,Yes,,
+Malaysia,MYS,2014,,,,,Yes,Yes
+Malaysia,MYS,2016,,1.3,,,Yes,Yes
+Maldives,MDV,2011,,,No,No,,
+Maldives,MDV,2014,,,,,No,No
+Maldives,MDV,2017,,,,,No,Yes
+Mali,MLI,2011,,,No,No,,
+Mali,MLI,2014,,,,,No,Yes
+Mali,MLI,2016,,,,,No,No
+Malta,MLT,2011,6.71,,Yes,Yes,,
+Malta,MLT,2014,,,,,Yes,Yes
+Marshall Islands,MHL,2011,0.4,,No,No,,
+Marshall Islands,MHL,2014,,,,,No,Yes
+Marshall Islands,MHL,2017,,,,,No,Yes
+Mauritania,MRT,2011,,,Yes,Yes,,
+Mauritania,MRT,2013,,1.3,,,No,Yes
+Mauritius,MUS,2011,,,Yes,No,,
+Mauritius,MUS,2014,,,,,Yes,No
+Mauritius,MUS,2017,,,,,Yes,Yes
+Mexico,MEX,2011,0.65,,Yes,Yes,,
+Mexico,MEX,2014,,,,,No,Yes
+Mexico,MEX,2016,,,,,Yes,Yes
+Micronesia (Federated States of),FSM,2011,,,Yes,Yes,,
+Micronesia (Federated States of),FSM,2014,,,,,No,Yes
+Micronesia (Federated States of),FSM,2017,,,,,Yes,No
+Monaco,MCO,2011,,,Yes,Yes,,
+Monaco,MCO,2014,,,,,Yes,Yes
+Monaco,MCO,2016,,,,,Yes,Yes
+Mongolia,MNG,2011,2,,Yes,Yes,,
+Mongolia,MNG,2016,,,,,Yes,No
+Montenegro,MNE,2011,,,Yes,Yes,,
+Montenegro,MNE,2014,,,,,Yes,Yes
+Montenegro,MNE,2016,,,,,Yes,Yes
+Morocco,MAR,2011,,,Yes,Yes,,
+Morocco,MAR,2014,,,,,Yes,Yes
+Morocco,MAR,2016,,,,,Yes,Yes
+Mozambique,MOZ,2011,0.16,,Yes,No,,
+Mozambique,MOZ,2014,,,,,No,Yes
+Mozambique,MOZ,2016,,,,,No,Yes
+Myanmar,MMR,2011,,,Yes,Yes,,
+Myanmar,MMR,2014,,,,,Yes,Yes
+Myanmar,MMR,2016,,0.4,,,Yes,Yes
+Namibia,NAM,2011,,,Yes,Yes,,
+Namibia,NAM,2014,,,,,Yes,Yes
+Namibia,NAM,2016,,,,,Yes,No
+Nauru,NRU,2011,0.69,,No,No,,
+Nauru,NRU,2014,,,,,Yes,No
+Nauru,NRU,2016,,0.1,,,Yes,Yes
+Nepal,NPL,2011,0.7,,No,Yes,,
+Nepal,NPL,2014,,,,,No,Yes
+Nepal,NPL,2016,,,,,No,Yes
+Netherlands,NLD,2011,10.65,,Yes,Yes,,
+Netherlands,NLD,2014,,,,,No,Yes
+Netherlands,NLD,2015,,7.1,,,Yes,Yes
+New Zealand,NZL,2011,10,,Yes,Yes,,
+New Zealand,NZL,2014,,,,,Yes,Yes
+New Zealand,NZL,2016,,9,,,Yes,Yes
+Nicaragua,NIC,2011,1,,Yes,No,,
+Nicaragua,NIC,2017,,,,,Yes,No
+Niger,NER,2011,,,Yes,No,,
+Niger,NER,2014,,,,,No,No
+Niger,NER,2016,,,,,No,Yes
+Nigeria,NGA,2011,,,Yes,Yes,,
+Nigeria,NGA,2014,,,,,No,Yes
+Nigeria,NGA,2017,,,,,No,No
+Niue,NIU,2011,,,No,No,,
+Niue,NIU,2017,,,,,Yes,Yes
+Norway,NOR,2011,,,Yes,Yes,,
+Norway,NOR,2014,,,,,No,No
+Norway,NOR,2016,,,,,Yes,Yes
+Oman,OMN,2011,,,Yes,Yes,,
+Oman,OMN,2014,,,,,No,Yes
+Oman,OMN,2015,,,,,No,Yes
+Pakistan,PAK,2011,,,Yes,Yes,,
+Pakistan,PAK,2014,,,,,Yes,Yes
+Pakistan,PAK,2016,,0.4,,,Yes,No
+Palau,PLW,2011,0.82,,Yes,No,,
+Panama,PAN,2011,,,Yes,Yes,,
+Panama,PAN,2014,,,,,No,Yes
+Panama,PAN,2016,,,,,No,Yes
+Papua New Guinea,PNG,2011,0.1,,Yes,Yes,,
+Papua New Guinea,PNG,2014,,,,,Yes,Yes
+Paraguay,PRY,2011,0.31,,Yes,Yes,,
+Paraguay,PRY,2014,,,,,No,Yes
+Paraguay,PRY,2016,,1.8,,,No,Yes
+Peru,PER,2011,0.27,,Yes,Yes,,
+Peru,PER,2014,,,,,No,Yes
+Peru,PER,2016,,1.7,,,Yes,Yes
+Philippines,PHL,2011,,,Yes,Yes,,
+Philippines,PHL,2014,,,,,No,Yes
+Philippines,PHL,2016,,0.2,,,2018,Yes
+Poland,POL,2011,5.08,,Yes,Yes,,
+Poland,POL,2014,,,,,Yes,Yes
+Poland,POL,2016,,2.6,,,Yes,Yes
+Portugal,PRT,2011,5.24,,Yes,Yes,,
+Portugal,PRT,2014,,,,,Yes,Yes
+Portugal,PRT,2016,,,,,Yes,Yes
+Qatar,QAT,2011,,,Yes,Yes,,
+Qatar,QAT,2014,,,,,No,Yes
+Qatar,QAT,2016,,0.6,,,Yes,Yes
+Republic of Korea,KOR,2011,,,Yes,Yes,,
+Republic of Korea,KOR,2014,,,,,Yes,Yes
+Republic of Korea,KOR,2016,,3.8,,,Yes,Yes
+Republic of Moldova,MDA,2011,3.24,,Yes,No,,
+Republic of Moldova,MDA,2014,,,,,Yes,Yes
+Republic of Moldova,MDA,2015,,2.2,,,Yes,Yes
+Romania,ROU,2011,,,Yes,Yes,,
+Romania,ROU,2014,,,,,Yes,Yes
+Romania,ROU,2016,,,,,Yes,Yes
+Russian Federation,RUS,2011,,,Yes,Yes,,
+Russian Federation,RUS,2014,,,,,Yes,Yes
+Russian Federation,RUS,2015,,,,,Yes,Yes
+Rwanda,RWA,2011,,,Yes,Yes,,
+Rwanda,RWA,2014,,,,,No,Yes
+Rwanda,RWA,2016,,10,,,No,Yes
+Saint Kitts and Nevis,KNA,2011,1.09,,No,No,,
+Saint Kitts and Nevis,KNA,2017,,,,,Yes,No
+Saint Lucia,LCA,2011,4.13,,No,No,,
+Saint Lucia,LCA,2014,,,,,Yes,Yes
+Saint Lucia,LCA,2016,,6,,,Yes,No
+Saint Vincent and the Grenadines,VCT,2011,5.6,,No,No,,
+Saint Vincent and the Grenadines,VCT,2014,,,,,Yes,No
+Saint Vincent and the Grenadines,VCT,2017,,10,,,Yes,No
+Samoa,WSM,2011,,,Yes,Yes,,
+Samoa,WSM,2014,,,,,Yes,Yes
+Samoa,WSM,2016,,1.1,,,Yes,Yes
+San Marino,SMR,2011,2.8,,Yes,No,,
+San Marino,SMR,2014,,,,,No,No
+Sao Tome and Principe,STP,2011,,,No,No,,
+Sao Tome and Principe,STP,2014,,,,,No,Yes
+Sao Tome and Principe,STP,2016,,6.1,,,No,Yes
+Saudi Arabia,SAU,2011,3.89,,Yes,Yes,,
+Saudi Arabia,SAU,2014,,,,,Yes,Yes
+Saudi Arabia,SAU,2016,,4,,,Yes,Yes
+Senegal,SEN,2011,,,Yes,Yes,,
+Senegal,SEN,2014,,,,,Yes,No
+Senegal,SEN,2016,,,,,Yes,Yes
+Serbia,SRB,2011,,,Yes,Yes,,
+Serbia,SRB,2014,,,,,Yes,Yes
+Serbia,SRB,2017,,6.6,,,Yes,Yes
+Seychelles,SYC,2011,,,No,No,,
+Seychelles,SYC,2014,,,,,Yes,No
+Seychelles,SYC,2016,,,,,Yes,No
+Sierra Leone,SLE,2011,,,Yes,Yes,,
+Sierra Leone,SLE,2014,,,,,Yes,No
+Sierra Leone,SLE,2017,,,,,No,Yes
+Singapore,SGP,2011,4.14,,Yes,Yes,,
+Singapore,SGP,2014,,,,,Yes,Yes
+Singapore,SGP,2016,,3,,,Yes,Yes
+Slovakia,SVK,2011,,,Yes,Yes,,
+Slovakia,SVK,2017,,,,,Yes,Yes
+Slovenia,SVN,2011,8,,No,No,,
+Slovenia,SVN,2014,,,,,Yes,No
+Slovenia,SVN,2016,,5.8,,,Yes,No
+Solomon Islands,SLB,2011,1.3,,No,No,,
+Solomon Islands,SLB,2014,,,,,Yes,Yes
+Solomon Islands,SLB,2017,,,,,,Yes
+Somalia,SOM,2011,,,No,No,,
+Somalia,SOM,2014,,,,,No,No
+South Africa,ZAF,2011,,,Yes,Yes,,
+South Africa,ZAF,2014,,,,,Yes,Yes
+South Africa,ZAF,2016,,3,,,Yes,Yes
+South Sudan,SSD,2014,,,,,No,No
+South Sudan,SSD,2016,,,,,No,No
+Spain,ESP,2011,5,,Yes,Yes,,
+Spain,ESP,2014,,,,,No,Yes
+Spain,ESP,2015,,,,,No,Yes
+Sri Lanka,LKA,2011,,,Yes,Yes,,
+Sri Lanka,LKA,2014,,,,,Yes,Yes
+Sri Lanka,LKA,2017,,,,,Yes,Yes
+Sudan,SDN,2011,,,Yes,Yes,,
+Sudan,SDN,2014,,,,,Yes,Yes
+Sudan,SDN,2015,,,,,Yes,Yes
+Suriname,SUR,2011,,,No,No,,
+Suriname,SUR,2014,,,,,Yes,Yes
+Suriname,SUR,2016,,,,,Yes,Yes
+Sweden,SWE,2011,10,,Yes,Yes,,
+Sweden,SWE,2014,,,,,No,Yes
+Sweden,SWE,2016,,,,,No,Yes
+Switzerland,CHE,2011,,,Yes,No,,
+Switzerland,CHE,2014,,,,,No,No
+Switzerland,CHE,2015,,5.1,,,No,Yes
+Syrian Arab Republic,SYR,2011,2,,Yes,Yes,,
+Syrian Arab Republic,SYR,2014,,,,,No,Yes
+Syrian Arab Republic,SYR,2016,,0.2,,,No,Yes
+Tajikistan,TJK,2011,1.22,,No,No,,
+Tajikistan,TJK,2014,,,,,Yes,No
+Tajikistan,TJK,2016,,2,,,Yes,No
+Thailand,THA,2011,4,,Yes,Yes,,
+Thailand,THA,2014,,,,,Yes,Yes
+Thailand,THA,2016,,0.3,,,Yes,Yes
+The former Yugoslav Republic of Macedonia,MKD,2011,,,No,Yes,,
+The former Yugoslav Republic of Macedonia,MKD,2014,,,,,Yes,Yes
+The former Yugoslav Republic of Macedonia,MKD,2017,,,,,Yes,Yes
+Timor-Leste,TLS,2011,,,Yes,No,,
+Timor-Leste,TLS,2014,,,,,No,Yes
+Timor-Leste,TLS,2016,,,,,No,Yes
+Togo,TGO,2011,,,Yes,Yes,,
+Togo,TGO,2014,,,,,No,Yes
+Togo,TGO,2016,,,,,No,Yes
+Tonga,TON,2011,,,No,No,,
+Tonga,TON,2014,,,,,Yes,No
+Tonga,TON,2016,,1.1,,,Yes,Yes
+Trinidad and Tobago,TTO,2011,,,Yes,Yes,,
+Trinidad and Tobago,TTO,2014,,,,,Yes,Yes
+Trinidad and Tobago,TTO,2017,,,,,Yes,Yes
+Tunisia,TUN,2011,4.95,,Yes,Yes,,
+Tunisia,TUN,2014,,,,,Yes,Yes
+Tunisia,TUN,2017,,,,,No,Yes
+Turkey,TUR,2011,,,Yes,Yes,,
+Turkey,TUR,2014,,,,,No,Yes
+Turkey,TUR,2016,,,,,No,Yes
+Turkmenistan,TKM,2014,,,,,Yes,Yes
+Tuvalu,TUV,2014,,,,,Yes,No
+Uganda,UGA,2011,,,Yes,No,,
+Uganda,UGA,2014,,,,,Yes,Yes
+Uganda,UGA,2016,,,,,Yes,Yes
+Ukraine,UKR,2011,,,Yes,Yes,,
+Ukraine,UKR,2016,,,,,Yes,No
+United Arab Emirates,ARE,2011,,,Yes,No,,
+United Arab Emirates,ARE,2014,,,,,Yes,Yes
+United Arab Emirates,ARE,2016,,,,,Yes,Yes
+United Kingdom of Great Britain and Northern Ireland,GBR,2014,,,,,Yes,Yes
+United Kingdom of Great Britain and Northern Ireland,GBR,2017,,9.7,,,Yes,Yes
+United Republic of Tanzania,TZA,2011,2.4,,Yes,Yes,,
+United Republic of Tanzania,TZA,2014,,,,,Yes,
+United Republic of Tanzania,TZA,2015,,4,,,Yes,Yes
+United States of America,USA,2011,,,Yes,Yes,,
+United States of America,USA,2014,,,,,No,No
+United States of America,USA,2016,,,,,No,Yes
+Uruguay,URY,2014,,,,,Yes,Yes
+Uruguay,URY,2016,,,,,Yes,Yes
+Uzbekistan,UZB,2011,2.32,,Yes,Yes,,
+Uzbekistan,UZB,2014,,,,,Yes,Yes
+Uzbekistan,UZB,2016,,2.7,,,Yes,Yes
+Vanuatu,VUT,2011,,,Yes,Yes,,
+Vanuatu,VUT,2014,,,,,No,No
+Vanuatu,VUT,2016,,1,,,Yes,Yes
+Viet Nam,VNM,2011,,,Yes,No,,
+Viet Nam,VNM,2014,,,,,No,Yes
+Viet Nam,VNM,2016,,,,,No,No
+Yemen,YEM,2011,,,No,No,,
+Yemen,YEM,2014,,,,,No,Yes
+Yemen,YEM,2016,,,,,No,No
+Zambia,ZMB,2011,,,Yes,Yes,,
+Zambia,ZMB,2014,,,,,Yes,Yes
+Zambia,ZMB,2016,,,,,Yes,Yes
+Zimbabwe,ZWE,2011,0.01,,Yes,Yes,,
+Zimbabwe,ZWE,2014,,,,,Yes,Yes
+Zimbabwe,ZWE,2016,,3.2,,,Yes,Yes
